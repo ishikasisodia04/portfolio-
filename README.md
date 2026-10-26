@@ -15,7 +15,6 @@ I’m a Product Design graduate interested in Product Management, UX Research, a
 - NIVA
 - TERRACOOL
 - Lumo
-- GCC Navigator
 
 ## Experience
 
